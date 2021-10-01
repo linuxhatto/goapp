@@ -9,4 +9,4 @@ namespace: goapp
 images:
 - name: goapp
   newName: hattodevops/goapp
-  newTag: 46d7604a0bdb0a6acd8a88f10ae6550e79aabe65
+  newTag: 1804cbfa46e171a63e3c78c469884d7118817b88
